@@ -1,0 +1,31 @@
+:root{
+       --title-color: #322153;
+       --primary-color: #34cb79;
+}
+
+h1, h2, h3, h4, h5 {
+    --title-color: #322153;
+    font-family: 'Unbuntu', sans-serif;
+}
+
+* {
+    margin:0;
+    padding: 0;
+    /* muda o parametro de preenchimento da caixa*/
+    box-sizing: border-box;
+
+}
+html{
+    font-family: Roboto, sans-serif;
+}
+
+body{
+    background: #f0f0f5;
+    -webkit-font-smoothing: antialiased; 
+}
+
+a{
+    text-decoration: none;
+}
+
+
